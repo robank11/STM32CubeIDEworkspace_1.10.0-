@@ -1,0 +1,10 @@
+15:21:00 **** Incremental Build of configuration Debug for project OLED_IIC_RTC ****
+make -j12 all 
+arm-none-eabi-size   OLED_IIC_RTC.elf 
+   text	   data	    bss	    dec	    hex	filename
+  18108	    148	   1708	  19964	   4dfc	OLED_IIC_RTC.elf
+Finished building: default.size.stdout
+ 
+
+15:21:00 Build Finished. 0 errors, 0 warnings. (took 229ms)
+

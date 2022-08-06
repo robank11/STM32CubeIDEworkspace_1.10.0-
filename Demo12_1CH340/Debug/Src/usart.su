@@ -1,0 +1,6 @@
+../Src/usart.c:37:6:MX_USART1_UART_Init	8	static
+../Src/usart.c:65:6:HAL_UART_MspInit	48	static
+../Src/usart.c:98:6:HAL_UART_MspDeInit	16	static
+../Src/usart.c:124:6:HAL_UART_RxCpltCallback	24	static
+../Src/usart.c:136:6:on_UART_IDLE	24	static
+../Src/usart.c:156:6:updateRTCTime	40	static

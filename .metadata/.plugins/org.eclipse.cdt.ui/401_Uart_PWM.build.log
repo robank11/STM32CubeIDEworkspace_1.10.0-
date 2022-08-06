@@ -1,0 +1,10 @@
+16:44:43 **** Incremental Build of configuration Debug for project 401_Uart_PWM ****
+make -j12 all 
+arm-none-eabi-size   401_Uart_PWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17924	    148	   1740	  19812	   4d64	401_Uart_PWM.elf
+Finished building: default.size.stdout
+ 
+
+16:44:43 Build Finished. 0 errors, 0 warnings. (took 231ms)
+

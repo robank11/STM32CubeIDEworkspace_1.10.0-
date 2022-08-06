@@ -1,0 +1,10 @@
+14:28:42 **** Incremental Build of configuration Debug for project Demo12_1CH340 ****
+make -j12 all 
+arm-none-eabi-size   Demo12_1CH340.elf 
+   text	   data	    bss	    dec	    hex	filename
+  43116	    540	   1780	  45436	   b17c	Demo12_1CH340.elf
+Finished building: default.size.stdout
+ 
+
+14:28:43 Build Finished. 0 errors, 0 warnings. (took 223ms)
+
